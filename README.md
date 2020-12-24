@@ -32,3 +32,11 @@ yay -S zsh-syntax-highlighting autojump zsh-autosuggestions
 Finish the conversion by changing your user in /etc/passwd to /bin/zsh instead of /bin/bash
 
 or typing `chsh $USER` and entering `/bin/zsh`
+
+
+
+
+######
+##Ubuntu setup
+
+ sudo chmod +x setup.sh && ./setup.sh
